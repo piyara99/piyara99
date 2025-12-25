@@ -23,13 +23,13 @@ Software Engineering Undergraduate | Full-Stack | AI Explorer
 ---
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=piyara99&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyara99&layout=compact&theme=tokyonight&hide_border=true)
+![Piyara's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyara99&show_icons=true&theme=tokyonight)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyara99&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=piyara99&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=piyara99&theme=tokyonight)
+
 
 ---
 

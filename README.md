@@ -1,69 +1,65 @@
-<!-- Banner -->
+<!-- Minimal Header -->
+<h1 align="center">Piyara Morawakaarachchi</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/piyara99/piyara99/main/banner.png" alt="Piyara | Software Engineering Undergraduate" />
-</p>
-
-<!-- Typing intro -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&center=true&vCenter=true&width=600&height=50&color=4493F8&lines=Hi+there!+I'm+Piyara+👋;Software+Engineering+Undergraduate;Full-Stack+Developer+%7C+AI+Explorer" />
-</h2>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyara99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyara99&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=piyara99&theme=tokyonight&hide_border=true" height="180"/>
+  Software Engineering Undergraduate • Full-Stack Developer • AI Explorer
 </p>
 
 ---
 
-### 👩‍💻 About Me
-🎓 BSc (Hons) Software Engineering — **University of Plymouth** (delivered at NSBM)  
-💻 Full-stack developer with strong **Java & backend fundamentals**  
-🤖 Exploring **AI agents, intelligent systems & automation**  
-🧠 Interested in **healthcare-focused, real-world software solutions**
+### About
+- Final-year Software Engineering student (University of Plymouth @ NSBM)  
+- Software Engineering Intern with hands-on industry experience  
+- Focused on building scalable backend systems and full-stack applications  
+- Interested in AI-driven systems and healthcare technology  
 
 ---
 
-### 🛠 Languages & Tools
+### Experience
+**Software Engineering Intern**  
+- Contributing to real-world application development  
+- Working with backend systems, APIs, and databases  
+- Applying best practices in software design and implementation  
+
+---
+
+### Projects
+**FurniViz – Furniture & Room Visualizer**  
+- Interactive web application focused on usability and 3D visualization  
+- Applied HCI principles and user-centered design  
+
+**Cinema Ticket Booking System**  
+- Java, GlassFish, MySQL  
+- Seat reservation, booking logic, and admin management  
+
+**Caregiver Support App**  
+- Healthcare-focused application supporting caregiver wellbeing  
+- Includes resource access and community features  
+
+---
+
+### Skills
+**Languages:** Java, Python, JavaScript  
+**Frontend:** React, HTML, CSS  
+**Backend:** Node.js, REST APIs  
+**Databases:** MySQL, PostgreSQL  
+**Tools:** Git, GitHub  
+
+---
+
+### Currently Learning
+- Cloud computing and deployment  
+- System design and scalable architectures  
+- AI integration in applications  
+
+---
+
+### GitHub Stats
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,mysql,postgres,git,github,html,css" />
+  <img src="https://github-readme-stats.vercel.app/api?username=piyara99&show_icons=true&hide_border=true"/>
 </p>
 
 ---
 
-### 🚀 What I’m Working On
-- Full-stack web & backend systems  
-- Java-based enterprise-style applications  
-- AI-driven and automation-focused projects  
-- Software solutions for healthcare & social impact  
-
----
-
-### 📌 Featured Projects
-- 🎬 **Cinema Ticket Booking System** — Java, GlassFish, MySQL  
-- 🧠 **Caregiver Support App** — wellbeing-focused healthcare app  
-- 🌐 **Full-Stack Web Apps** — REST APIs, dashboards, authentication  
-
----
-
-### 🔗 Connect With Me
-<p align="center">
-  <a href="mailto:piyaratharindie99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/piyara-morawakaarachchi-20ab102a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<!-- Visitor counter -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/piyara99/count.svg" />
-</p>
+### Contact
+- Email: piyaratharindie99@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/piyara-morawakaarachchi-20ab102a2/

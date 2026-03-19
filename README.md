@@ -83,7 +83,7 @@ Agile, Scrum, REST API Design
 ---
 
 ### 🎯 Career Goal
-Aspiring to work as a **Software Engineer in a global tech environment (UK)**, contributing to impactful systems while growing in backend, full-stack, and AI-driven development.
+Aspiring to work as a **Software Engineer in a global tech environment**, contributing to impactful systems while growing in backend, full-stack, and AI-driven development.
 
 ---
 

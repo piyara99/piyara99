@@ -1,65 +1,103 @@
-<!-- Minimal Header -->
-<h1 align="center">Piyara Morawakaarachchi</h1>
+<!-- Banner -->
 <p align="center">
-  Software Engineering Undergraduate • Full-Stack Developer • AI Explorer
+  <img src="https://raw.githubusercontent.com/piyara99/piyara99/main/banner.png" alt="Piyara | Software Engineer" />
 </p>
 
----
-
-### About
-- Final-year Software Engineering student (University of Plymouth @ NSBM)  
-- Software Engineering Intern with hands-on industry experience  
-- Focused on building scalable backend systems and full-stack applications  
-- Interested in AI-driven systems and healthcare technology  
+<!-- Typing intro -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&center=true&vCenter=true&width=700&height=50&color=4493F8&lines=Hi+there!+I'm+Piyara+👋;Final-Year+Software+Engineering+Student;Software+Engineering+Intern;Java+Backend+%7C+Full-Stack+Developer;Building+Real-World+Scalable+Systems" />
+</h2>
 
 ---
 
-### Experience
-**Software Engineering Intern**  
-- Contributing to real-world application development  
-- Working with backend systems, APIs, and databases  
-- Applying best practices in software design and implementation  
+### 👩‍💻 About Me
+🎓 Final-year BSc (Hons) Software Engineering — **University of Plymouth (NSBM)**  
+💼 Software Engineering Intern with hands-on experience in real-world systems  
+💻 Strong focus on **Java backend development, REST APIs & full-stack applications**  
+🤖 Exploring **AI, automation & intelligent systems**  
+🧠 Interested in **user-centered and healthcare-focused software solutions**  
 
 ---
 
-### Projects
-**FurniViz – Furniture & Room Visualizer**  
-- Interactive web application focused on usability and 3D visualization  
-- Applied HCI principles and user-centered design  
-
-**Cinema Ticket Booking System**  
-- Java, GlassFish, MySQL  
-- Seat reservation, booking logic, and admin management  
-
-**Caregiver Support App**  
-- Healthcare-focused application supporting caregiver wellbeing  
-- Includes resource access and community features  
+### 🚀 Professional Focus
+- Designing and developing **scalable backend systems using Java (Spring Boot)**  
+- Building **full-stack web applications (React + REST APIs)**  
+- Applying **Agile & Scrum practices in team environments**  
+- Improving **usability and UX using HCI principles**  
 
 ---
 
-### Skills
-**Languages:** Java, Python, JavaScript  
-**Frontend:** React, HTML, CSS  
-**Backend:** Node.js, REST APIs  
-**Databases:** MySQL, PostgreSQL  
-**Tools:** Git, GitHub  
+### 🛠 Tech Stack
 
----
-
-### Currently Learning
-- Cloud computing and deployment  
-- System design and scalable architectures  
-- AI integration in applications  
-
----
-
-### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyara99&show_icons=true&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,spring,mysql,postgres,mongodb,firebase,html,css,tailwind,bootstrap,git,github" />
 </p>
 
+**💻 Languages**  
+Java, Python, JavaScript  
+
+**⚙️ Backend Development**  
+Spring Boot, Jakarta EE, Servlets, Express.js  
+
+**🎨 Frontend Development**  
+React, HTML, CSS, Bootstrap, Tailwind CSS, Material UI  
+
+**🗄️ Databases**  
+MySQL, PostgreSQL, MongoDB, Firebase  
+
+**🛠 Tools & Platforms**  
+Git, GitHub, Postman, Figma  
+
+**📐 Practices & Methodologies**  
+Agile, Scrum, REST API Design  
+
 ---
 
-### Contact
-- Email: piyaratharindie99@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/piyara-morawakaarachchi-20ab102a2/
+### 📌 Featured Projects
+
+🛋️ **FurniViz – Furniture & Room Visualizer (HCI Project)**  
+- Developed a high-fidelity interactive web application  
+- Applied **usability heuristics and user-centered design principles**  
+- Focused on **enhancing user experience and interaction design**  
+
+🎬 **Cinema Ticket Booking System**  
+- Built a **Java-based web application** using GlassFish & MySQL  
+- Implemented **seat reservation logic, admin features & booking management**  
+- Designed to handle **real-world booking scenarios and prevent conflicts**  
+
+🧠 **Caregiver Support App (Healthcare Solution)**  
+- Designed a platform to support **caregivers of autistic individuals**  
+- Focused on **well-being tracking, resource access & community support**  
+
+🌐 **Full-Stack Web Applications**  
+- Developed applications with **authentication, REST APIs & database integration**  
+- Emphasized **clean architecture and scalable design**  
+
+---
+
+### 🌱 Currently Learning
+- ☁️ Cloud platforms & deployment (AWS / modern hosting)  
+- 🧩 System design & scalable architectures  
+- 🤖 AI integration in real-world applications  
+
+---
+
+### 🎯 Career Goal
+Aspiring to work as a **Software Engineer in a global tech environment**, contributing to impactful systems while growing in backend, full-stack, and AI-driven development.
+
+---
+
+### 🔗 Connect With Me
+<p align="center">
+  <a href="mailto:piyaratharindie99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/piyara-morawakaarachchi-20ab102a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<!-- Visitor counter -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/piyara99/count.svg" />
+</p>

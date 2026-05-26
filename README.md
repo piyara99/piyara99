@@ -1,93 +1,141 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/piyara99/piyara99/main/banner.png" alt="Piyara | Software Engineer" />
+  <img src="https://raw.githubusercontent.com/piyara99/piyara99/main/banner.png" alt="Piyara | AI Engineer & Researcher" />
 </p>
 
 <!-- Typing intro -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&center=true&vCenter=true&width=700&height=50&color=4493F8&lines=Hi+there!+I'm+Piyara+👋;Final-Year+Software+Engineering+Student;Software+Engineering+Intern;Java+Backend+%7C+Full-Stack+Developer;Building+Real-World+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=28&center=true&vCenter=true&width=700&height=50&color=4493F8&lines=Hi+there!+I'm+Piyara+👋;AI+Research+Engineer+in+Training;Multimodal+AI+%7C+Healthcare+Technology;Published+Researcher;Building+Intelligent+Real-World+Systems" />
 </h2>
 
 ---
 
 ### 👩‍💻 About Me
+
 🎓 Final-year BSc (Hons) Software Engineering — **University of Plymouth (NSBM)**  
-💼 Software Engineering Intern with hands-on experience in real-world systems  
-💻 Strong focus on **Java backend development, REST APIs & full-stack applications**  
-🤖 Exploring **AI, automation & intelligent systems**  
-🧠 Interested in **user-centered and healthcare-focused software solutions**  
+🧠 Building a **multimodal AI system for lung cancer outcome prediction** — CNN + clinical data fusion + Explainable AI  
+📄 **Published researcher** — KDU 18th International Research Conference 2025  
+💼 Former **Software Engineering Intern** at Applantics Pvt Ltd — production-level systems  
+🌍 Passionate about **healthcare AI, LLMs, federated learning & agentic systems**   
+🔬 Research-oriented engineer focused on building AI with real clinical impact
 
 ---
 
-### 🚀 Professional Focus
-- Designing and developing **scalable backend systems using Java (Spring Boot)**  
-- Building **full-stack web applications (React + REST APIs)**  
-- Applying **Agile & Scrum practices in team environments**  
-- Improving **usability and UX using HCI principles**  
+### 🔍 Research Interests
+
+- Multimodal Deep Learning
+- Explainable AI (XAI)
+- Medical Imaging AI
+- Federated Learning
+- LLM-powered Healthcare Systems
+- Agentic AI Architectures
+
+---
+
+### 🚀 What I'm Working On
+
+- 🔬 Multimodal deep learning for **healthcare outcome prediction** (final-year research)
+- 🤖 Building a **RAG-based document Q&A chatbot** (LangChain + ChromaDB)
+- 🏥 Medical image classifier with **Grad-CAM interpretability** (PyTorch)
+- ☁️ Learning **AWS** and cloud deployment
 
 ---
 
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,spring,mysql,postgres,mongodb,firebase,html,css,tailwind,bootstrap,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,java,js,react,nodejs,express,mysql,mongodb,firebase,flutter,tailwind,git,github" />
 </p>
 
+**🤖 AI / ML**  
+Python, PyTorch, Scikit-learn, NumPy, Pandas, Grad-CAM, SHAP, LangChain
+
 **💻 Languages**  
-Java, Python, JavaScript  
+Java, Python, JavaScript, TypeScript, Dart
 
 **⚙️ Backend Development**  
-Spring Boot, Jakarta EE, Servlets, Express.js  
+Node.js, Express.js, Spring Boot, Jakarta EE, Servlets, Laravel, .NET Core
 
 **🎨 Frontend Development**  
-React, HTML, CSS, Bootstrap, Tailwind CSS, Material UI  
+React, HTML, CSS, Tailwind CSS, Bootstrap, Material UI
 
 **🗄️ Databases**  
-MySQL, PostgreSQL, MongoDB, Firebase  
+MySQL, PostgreSQL, MongoDB, Firebase, SQL Server
 
 **🛠 Tools & Platforms**  
-Git, GitHub, Postman, Figma  
+Git, GitHub, Postman, Figma, REST APIs
 
-**📐 Practices & Methodologies**  
-Agile, Scrum, REST API Design  
+**📐 Practices**  
+Agile, Scrum, REST API Design, OOP
+
+---
+
+### 📄 Publication
+
+**Enhancing Support for Caregivers of Autistic Children Through Mobile Technology**  
+*KDU 18th International Research Conference 2025*
 
 ---
 
 ### 📌 Featured Projects
 
-🛋️ **FurniViz – Furniture & Room Visualizer (HCI Project)**  
-- Developed a high-fidelity interactive web application  
-- Applied **usability heuristics and user-centered design principles**  
-- Focused on **enhancing user experience and interaction design**  
+🧬 **NSCLC Outcome Prediction** *(Ongoing — Final Year Research)*
+- Multimodal AI model processing combined **clinical + medical imaging datasets** using CNN feature extraction + data fusion
+- Implemented **Grad-CAM & SHAP/LIME visualisations** for CNN explainability and clinical interpretability
+- Stack: Python · PyTorch · Scikit-learn  
+- 🔗 [View Project](https://github.com/piyara99/nsclc-multimodal-project.git)
 
-🎬 **Cinema Ticket Booking System**  
-- Built a **Java-based web application** using GlassFish & MySQL  
-- Implemented **seat reservation logic, admin features & booking management**  
-- Designed to handle **real-world booking scenarios and prevent conflicts**  
+🧠 **Caregiver Support App** *(Published Research)*
+- Flutter + Firebase mobile app with **real-time tracking** for autism caregivers
+- Research presented at KDU 18th International Research Conference 2025
+- Stack: Flutter · Firebase · Dart  
+- 🔗 [View Project](https://github.com/piyara99/Autism-Caregiver-App.git)
 
-🧠 **Caregiver Support App (Healthcare Solution)**  
-- Designed a platform to support **caregivers of autistic individuals**  
-- Focused on **well-being tracking, resource access & community support**  
+🏨 **Hotel Room Booking System**
+- Full-stack real-time booking app with **WebSocket-based live synchronisation** across concurrent users
+- Developed **REST APIs handling real-time booking synchronisation** and conflict prevention
+- Stack: React · Node.js · MongoDB  
+- 🔗 [View Project](https://github.com/piyara99/hotel-booking-system.gi)
 
-🌐 **Full-Stack Web Applications**  
-- Developed applications with **authentication, REST APIs & database integration**  
-- Emphasized **clean architecture and scalable design**  
+🎬 **Cinema Ticket Reservation System**
+- **Collision-free** seat reservation system with PayPal payment integration
+- Built seat-locking logic to prevent double bookings under concurrent load
+- Stack: Java · SQL · GlassFish  
+- 🔗 [View Project](https://github.com/piyara99/CinemaABC.git)
+
+🛋️ **FurniViz – Furniture & Room Visualizer**
+- High-fidelity web app applying **usability heuristics & user-centered design**
+- Stack: React · HTML · CSS  
+- 🔗 [View Project](https://github.com/piyara99/Furniture-Room-Visualizer-HCI.git)
 
 ---
 
 ### 🌱 Currently Learning
-- ☁️ Cloud platforms & deployment (AWS / modern hosting)  
-- 🧩 System design & scalable architectures  
-- 🤖 AI integration in real-world applications  
+
+- ☁️ Cloud platforms & deployment (AWS)
+- 🤖 LLMs, RAG pipelines & agentic AI systems
+- 🐳 Docker & containerisation
+- 📊 MLOps — experiment tracking & model monitoring
 
 ---
 
 ### 🎯 Career Goal
-Aspiring to work as a **Software Engineer in a global tech environment**, contributing to impactful systems while growing in backend, full-stack, and AI-driven development.
+
+Focused on building intelligent systems that create real-world impact, particularly in healthcare and human-centered AI.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyara99&show_icons=true&theme=default&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyara99&layout=compact&hide_border=true" width="40%"/>
+</p>
 
 ---
 
 ### 🔗 Connect With Me
+
 <p align="center">
   <a href="mailto:piyaratharindie99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />

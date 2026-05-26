@@ -128,7 +128,7 @@ Focused on building intelligent systems that create real-world impact, particula
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyara99&show_icons=true&theme=default&hide_border=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=piyara99&theme=default&hide_border=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyara99&layout=compact&hide_border=true" width="40%"/>
 </p>
 
